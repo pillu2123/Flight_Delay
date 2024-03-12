@@ -1,0 +1,324 @@
+ABR |14929|Aberdeen|Aberdeen|SD
+ABR |14929|Aberdeen Rgnl Airport|Aberdeen|SD
+ABI |13962|Abilene Rgnl Airport|Abilene|TX
+CAK |14895|Akron Canton Rgnl Airport|Akron|OH
+AKO |24015|Akron Washington Co Airport|Akron|CO
+ALS |23061|Alamosa San Luis Airport|Alamosa|CO
+ALB |14735|Albany Airport|Albany|NY
+ABQ |23050|Albuquerque International Airport|Albuquerque|NM
+ABE |14737|Allentown International Airport|Allentown|PA
+APN |94849|Alpena Co Rgnl Airport|Alpena|MI
+AMA |23047|Amarillo|Amarillo|TX
+AMA |23047|Amarillo International Airport|Amarillo|TX
+ANC |26451|Anchorage International Airport|Anchorage|AK
+ANN |25308|Annette Island Airport|Annette|AK
+AVL |03812|Asheville Rgnl Airport|Asheville|NC
+AST |94224|Astoria Rgnl Airport|Astoria|OR
+AHN |13873|Athens Ben Epps Airport|Athens|GA
+ATL |13874|Atlanta Hartsfield International Airport|Atlanta|GA
+ATLN|13724|Atlantic City|Atlantic City|NJ
+ACY |93730|Atlantic City International Airport|Atlantic City|NJ
+AGS |03820|Augusta Bush Field Airport|Augusta|GA
+AUS |13904|Austin Bergstrom Airport|Austin|TX
+ATT |13958|Austin Mueller Municipal Airport|Austin|TX
+BFL |23155|Bakersfield Airport|Bakersfield|CA
+BWI |93721|Baltimore Washington International Airpo|Baltimore|MD
+BRW |27502|Barrow Post Rogers Airport|Barrow|AK
+BTR |13970|Baton Rouge Ryan Airport|Baton Rouge|LA
+BKW |03872|Beckley Raleigh Co Airport|Beckley|WV
+BET |26615|Bethel Airport|Bethel|AK
+BTT |26533|Bettles Airport|Bettles|AK
+BIG |26415|Big Delta Airport|Big Delta|AK (Last LCD Dec 2011)
+BIL |24033|Billings Logan International Airport|Billings|MT
+BGM |04725|Binghamton|Binghamton|NY
+BGM |04725|Binghamton Link Field|Binghamton|NY
+BGR |14606|Bangor International AP|Bangor|ME
+BHM |13876|Birmingham Airport|Birmingham|AL
+BIH |23157|Bishop Airport|Bishop|CA
+BIS |24011|Bismarck|Bismarck|ND
+BIS |24011|Bismarck Municipal Airport|Bismarck|ND
+BOI |24131|Boise Air Terminal|Boise|ID
+BOS |14739|Boston Logan International Airport|Boston|MA
+BDR |94702|Bridgeport Sikorsky Mem Airport|Bridgeport|CT
+TRI |13877|Bristol Tri City Airport|Bristol|TN
+BRO |12919|Brownsville|Brownsville|TX
+BRO |12919|Brownsville International Airport|Brownsville|TX
+BUF |14733|Buffalo|Buffalo|NY
+BUF |14733|Buffalo Niagara International Airport|Buffalo|NY
+BTV |14742|Burlington International Airport|Burlington|VT
+BNO |94185|Burns Municipal Airport|Burns|OR
+HSE |93729|Cape Hatteras Airport||NC
+CAR |14607|Caribou Municipal Airport|Caribou|ME
+CDS |23007|Childress Municipal AP|Childress|TX
+CPR |24089|Casper Natrona Co Airport|Casper|WY
+1549|13782|Charleston City|Charleston|SC|Old ID
+CHLS|13782|Charleston City|Charleston|SC|New ID
+CHS |13880|Charleston International Airport|Charleston|SC
+CRW |13866|Charleston Yeager Airport|Charleston|WV
+CLT |13881|Charlotte Douglas Airport|Charlotte|NC
+CHA |13882|Chattanooga Lovell Airport|Chattanooga|TN
+CYS |24018|Cheyenne|Cheyenne|WY
+CYS |24018|Cheyenne Municipal Airport|Cheyenne|WY
+ORD |94846|Chicago Ohare International Airport|Chicago|IL
+PTKK|40505|Chuuk Wso Airport||FM
+CVG |93814|Cincinnati Northern Ky Airport||KY
+CAO |23051|Clayton Muni Air Pk|Clayton|NM
+CLE |14820|Cleveland|Cleveland|OH
+CLE |14820|Cleveland Hopkins International Airport|Cleveland|OH
+CDB |25624|Cold Bay Airport|Cold Bay|AK
+COS |93037|Colorado Springs Municipal Airport|Colorado Springs|CO
+CAE |13883|Columbia|Columbia|SC
+CAE |13883|Columbia Metro Airport|Columbia|SC
+COU |03945|Columbia Rgnl Airport|Columbia|MO
+CSG |93842|Columbus Metro Airport|Columbus|GA
+CMH |14821|Columbus Port Columbus International A|Columbus|OH
+CON |14745|Concord Municipal Airport|Concord|NH
+CNK |13984|Concordia Municipal Airport|Concordia|KS
+CRP |12924|Corpus Christi|Corpus Christi|TX
+CRP |12924|Corpus Christi International Airport|Corpus Christi|TX
+DFW |03927|Dallas Ft Worth Airport|Dallas|TX
+DAL |13960|Dallas Love Field|Dallas|TX
+DAY |93815|Dayton International Airport|Dayton|OH
+DAY |93815|Dayton International Airport|Dayton|OH
+DAB |12834|Daytona Beach International Airport|Daytona Beach|FL
+DRT |22010|Del Rio International Airport|Del Rio|TX
+DEN |03017|Denver International Airport|Denver|CO
+DSM |14933|Des Moines International Airport|Des Moines|IA
+DTW |94847|Detroit Metro Airport|Detroit|MI
+DDC |13985|Dodge City|Dodge City|KS
+DDC |13985|Dodge City Rgnl Airport|Dodge City|KS
+DBQ |94908|Dubuque Rgnl Airport|Dubuque|IA
+DLH |14913|Duluth|Duluth|MN
+DLH |14913|Duluth International Airport|Duluth|MN
+MQE |14753|E Milton Blue Hill Obs||MA
+ELP |23044|El Paso International Airport|El Paso|TX
+EKN |13729|Elkins Randolph Co Airport|Elkins|WV
+EKO |24121|Elko Rgnl Airport|Elko|NV
+ELY |23154|Ely Yelland Field Airport|Ely|NV
+ERI |14860|Erie International Airport|Erie|PA
+EUG |24221|Eugene Mahlon Sweet Airport|Eugene|OR
+EKA |24213|Eureka Wfo Woodley Island|Eureka|CA
+EVV |93817|Evansville Regional Airport|Evansville|IN
+FAI |26411|Fairbanks International Airport|Fairbanks|AK
+FAR |14914|Fargo Hector International Airport|Fargo|ND
+FLG |03103|Flagstaff Pulliam Airport|Flagstaff|AZ
+FNT |14826|Flint Bishop International Airport|Flint|MI
+FAT |93193|Fresno Yosemite International Airport|Fresno|CA
+FMY |12835|Ft Myers Page Field Airport||FL
+FSM |13964|Ft Smith Rgnl Airport||AR
+FWA |14827|Ft Wayne International Airport||IN
+GNV |12816|Gainesville Rgnl Airport|Gainesville|FL
+GGW |94008|Glasgow|Glasgow|MT
+GGW |94008|Glasgow International Airport|Glasgow|MT
+GLD |23065|Goodland|Goodland|KS
+GLD |23065|Goodland Renner Field|Goodland|KS
+GFK |14916|Grand Forks International Airport|Grand Forks|ND
+GRI |14935|Grand Island Airport|Grand Island|NE
+GJT |23066|Grand Junction Walker Field|Grand Junction|CO
+GRR |94860|Grand Rapids|Grand Rapids|MI
+GTF |24143|Great Falls International Airport|Great Falls|MT
+GRB |14898|Green Bay|Green Bay|WI
+GRB |14898|Green Bay A S International Airport|Green Bay|WI
+GSP |03870|Greer|Greer|SC
+GSP |03870|Grnvl Spart Airport||SC
+GUM |41415|Guam International Airport||GU
+GKN |26425|Gulkana Airport|Gulkana|AK
+BDL |14740|Hartford Bradley International Airport|Hartford|CT
+HVR |94012|Havre City Co Airport|Havre|MT
+HLN |24144|Helena Rgnl Airport|Helena|MT
+ITO |21504|Hilo International Airport|Hilo|HI
+HOM |25507|Homer Airport|Homer|AK
+HNL |22521|Honolulu International Airport|Honolulu|HI
+HTL |94814|Houghton Lk Roscommon Airport||MI
+IAH |12960|Houston Intercont Airport|Houston|TX
+HTS |03860|Huntington Tri State Airport|Huntington|WV
+HSV |03856|Huntsville International Airport|Huntsville|AL
+HON |14936|Huron Rgnl Airport|Huron|SD
+IND |93819|Indianapolis|Indianapolis|IN
+IND |93819|Indianapolis International Airport|Indianapolis|IN
+INL |14918|International Falls Intl Ap||MN
+ISP |04781|Islip Li Macarthur Airport|Islip|NY
+JKL |03889|Jackson|Jackson|KY
+JAN |03940|Jackson International Airport|Jackson|MS
+JKL |03889|Jackson Julian Carroll Airport|Jackson|KY
+JAX |13889|Jacksonville|Jacksonville|FL
+JAX |13889|Jacksonville International Airport|Jacksonville|FL
+JNU |25309|Juneau International Airport|Juneau|AK
+OGG |22516|Kahului Airport||HI
+FCA |24146|Kalispell Glacier Airport|Kalispell|MT
+MCI |03947|Kansas City International Airport|Kansas City|MO
+EYW |12836|Key West International Airport|Key West|FL
+AKN |25503|King Salmon|King Salmon|AK
+AKN |25503|King Salmon Airport|King Salmon|AK
+TYS |13891|Knoxville Mcghee Tyson Airport|Knoxville|TN
+ADQ |25501|Kodiak Airport|Kodiak|AK
+PTKR|40309|Koror Wso||PI New ID
+PTRO|40309|Koror Wso||PI Old ID
+OTZ |26616|Kotzebue Ralph Wein Airport|Kotzebue|AK
+PKWA|40604|Kwajalein||MH
+LSE |14920|La Crosse Municipal Airport|La Crosse|WI
+LCH |03937|Lake Charles|Lake Charles|LA
+LCH |03937|Lake Charles Rgnl Airport|Lake Charles|LA
+LND |24021|Lander Hunt Field Airport|Lander|WY
+LAN |14836|Lansing Capital City Airport|Lansing|MI
+LAS |23169|Las Vegas Mccarran Airport|Las Vegas|NV
+LWS |24149|Lewiston Nez Perce Co Airport|Lewiston|ID
+LEX |93820|Lexington Bluegrass Airport|Lexington|KY
+LIH |22536|Lihue Wso Ap 1020.1|Lihue|HI
+LNK |14939|Lincoln Municipal Airport|Lincoln|NE
+1M1 |03952|North Little Rock|Little Rock|AR| Old ID
+LZK |03952|North Little Rock|AR| New ID
+LIT |13963|Little Rock Ap Adams Field|Little Rock|AR
+LGB |23129|Long Beach Daugherty Field|Long Beach|CA
+CQT |93134|Los Angeles Dwtn Usc Campus|Los Angeles|CA
+LAX |23174|Los Angeles International Airport|Los Angeles|CA
+SDF |93821|Louisville Standiford Field|Louisville|KY
+LBB |23042|Lubbock|Lubbock|TX
+LBB |23042|Lubbock International Airport|Lubbock|TX
+LYH |13733|Lynchburg Rgnl Airport|Lynchburg|VA
+MCN |03813|Macon Middle Ga Rgnl Airport|Macon|GA
+MLB |12838|Melbourne Intl. AP|Melbourne|FL
+MSN |14837|Madison Dane Rgnl Airport|Madison|WI
+PKMJ|40710|Majuro Wbas Airport||MH| Old ID
+PKMR|40710|Majuro Wbas Airport||MH| New ID
+MFD |14891|Mansfield Lahm Municipal Airport|Mansfield|OH
+MQT |94850|Marquette|Marquette|MI
+MQT |94850|Marquette Wso Airport|Marquette|MI
+MCG |26510|Mcgrath Airport|McGrath|AK
+MFR |24225|Medford Rogue Vly Airport|Medford|OR
+MEM |13893|Memphis International Airport|Memphis|TN
+MEI |13865|Meridian Key Field|Meridian|MS
+MIA |12839|Miami International Airport|Miami|FL
+MDT |14711|Middletown Harrisburg International Airp|Middletown|PA
+MAF |23023|Midland International Airport|Midland|TX
+MAF |23023|Midland Odessa|Midland|TX
+MKE |14839|Milwaukee Mitchell Airport|Milwaukee|WI
+MSP |14922|Minneapolis St Paul International Airpor|Minneapolis|MN
+MSO |24153|Missoula International Airport|Missoula|MT
+MOB |13894|Mobile|Mobile|AL
+MOB |13894|Mobile Rgnl Airport|Mobile|AL
+MLI |14923|Moline Quad City International Airport|Moline|IL
+MGM |13895|Montgomery Airport|Montgomery|AL
+MWN |14755|Mt Washington||NH
+MKG |14840|Muskegon Co Airport|Muskegon|MI
+BNA |13897|Nashville International Airport|Nashville|TN
+MSY |12916|New Orleans International Airport|New Orleans|LA
+NYC |94728|New York Cntrl Pk Twr|New York|NY
+JFK |94789|New York Jfk International Airport|New York|NY
+LGA |14732|New York Laguardia Airport|New York|NY
+EWR|14734|Newark International Airport|Newark|NJ
+EWR |14734|Newark International Airport|Newark|NJ
+OME |26617|Nome Municipal Airport|Nome|AK
+ORF |13737|Norfolk International Airport|Norfolk|VA
+OFK |14941|Norfolk Karl Stefan Airport|Norfolk|NE
+1M1 |03952|North Little Rock Airport|North Little Rock|AR
+LBF |24023|North Platte Rgnl Airport|North Platte|NE
+OQT |53868|Oak Ridge Asos|Oak Ridge|TN
+OAKT|03841|Oak Ridge Atdd|Oak Ridge|TN
+OKC |13967|Ok City Will Rogers World Airport||OK
+OLM |24227|Olympia Airport|Olympia|WA
+OMA |14942|Omaha Eppley Airfield|Omaha|NE
+MCO |12815|Orlando International Airport|Orlando|FL
+PAH |03816|Paducah|Paducah|KY
+PAH |03816|Paducah Barkley Rgnl Airport|Paducah|KY
+NSTU|61705|Pago Pago Wso Airport||AS
+PDT |24155|Pendleton|Pendleton|OR
+PDT |24155|Pendleton E Or Rgnl Airport|Pendleton|OR
+PNS |13899|Pensacola Rgnl Airport|Pensacola|FL
+PIA |14842|Peoria Gtr Peoria Airport|Peoria|IL
+PHL |13739|Philadelphia International Airport|Philadelphia|PA
+PHX |23183|Phoenix Sky Harbor International Airport|Phoenix|AZ
+GSO |13723|Piedmont Triad International Airport||NC
+PIT |94823|Pittsburgh International Airport|Pittsburgh|PA
+PIH |24156|Pocatello Rgnl Airport|Pocatello|ID
+PTPN|40504|Pohnpei Wso||FM
+PTTP|40504|Pohnpei Wso||FM
+PTK |94817|Pontiac Oakland Co International Airport|Pontiac|MI
+BPT |12917|Port Arthur Se Tx Airport|Port Arthur|TX
+PDX |24229|Portland International Airport|Portland|OR
+PWM |14764|Portland International Jetport|Portland|ME
+PTT |93978|Pratt Industrial Airport|Pratt|KS
+PVD |14765|Providence T F Green Airport|Providence|RI
+PUB |93058|Pueblo Mem Airport|Pueblo|CO
+UIL |94240|Quillayute State Airport||WA
+RDU |13722|Raleigh Durham International Airport|Raleigh|NC
+RAP |24090|Rapid City Rgnl Airport|Rapid City|SD
+RDD |24257|Redding Municipal Airport|Redding|CA
+RNO |23185|Reno Tahoe International Airport|Reno|NV
+RIC |13740|Richmond International Airport|Richmond|VA
+ROA |13741|Roanoke Rgnl Airport|Roanoke|VA
+ROC |14768|Rochester Gtr International Airport|Rochester|NY
+RST |14925|Rochester International Airport|Rochester|MN
+RFD |94822|Rockford Gtr Rockford Airport|Rockford|IL
+ROW |23009|Roswell Ind Air Pk|Roswell|NM
+SAC |23232|Sacramento Executive Airport|Sacramento|CA
+SLE |24232|Salem Mcnary Field|Salem|OR
+SLC |24127|Salt Lake City International Airport|Salt Lake City|UT
+SJT |23034|San Angelo|San Angelo|TX
+SJT |23034|San Angelo Mathis Field|San Angelo|TX
+SAT |12921|San Antonio International Airport|San Antonio|TX
+SAN |23188|San Diego Lindbergh Field|San Diego|CA
+SFOC|23272|San Francisco Dwtn|San Francisco|CA
+SFO |23234|San Francisco International Airport|San Francisco|CA
+SJU |11641|San Juan L M Marin Airport|San Juan|PR
+SMX |23273|Santa Maria Public Airport|Santa Maria|CA
+ANJ |14847|Sault Ste Marie Sanderson Field||MI
+SAV |03822|Savannah International Airport|Savannah|GA
+BFF |24028|Scottsbluff Heilig Airport|Scottsbluff|NE
+SEW |94290|Seattle Sand Pt WSFO|Seattle|WA
+SEA |24233|Seattle Tacoma International Airport|Seattle|WA
+SHR |24029|Sheridan Co Airport|Sheridan|WY
+SUX |14943|Sioux City Gateway Airport|Sioux City|IA
+FSD |14944|Sioux Falls|Sioux Falls|SD
+FSD |14944|Sioux Falls Foss Field|Sioux Falls|SD
+SBN |14848|South Bend Michiana Rgnl Airport|South Bend|IN
+GEG |24157|Spokane International Airport|Spokane|WA
+SGF |13995|Springfield|Springfield|MO
+SPI |93822|Springfield Capital Airport|Springfield|IL
+SGF |13995|Springfield Rgnl Airport|Springfield|MO
+STC |14926|St Cloud Rgnl Airport||MN
+STL |13994|St Louis Lambert International Airport||MO
+SNP |25713|St Paul Island Airport||AK
+SHV |63816|Statesville Municipal Airport|Statesville|NC
+SCK |23237|Stockton Metro Airport|Stockton|CA
+SYR |14771|Syracuse Hancock International Airport|Syracuse|NY
+TKA |26528|Talkeetna Airport|Talkeetna|AK
+TLH |93805|Tallahassee|Tallahassee|FL
+TLH |93805|Tallahassee Rgnl Airport|Tallahassee|FL
+TPA |12842|Tampa International Airport|Tampa|FL
+TOL |94830|Toledo Express Airport|Toledo|OH
+TOP |13996|Topeka Municipal Airport|Topeka|KS
+TUS |23160|Tucson International Airport|Tucson|AZ
+TUL |13968|Tulsa International Airport|Tulsa|OK
+TUP |93862|Tupelo Rgnl Airport|Tupelo|MS
+UNK |26627|Unalakleet Field|Unalakleet|AK
+VWS |26442|Valdez Wso|Valdez|AK| LCD Stopped Mar14th 2014
+VTN |24032|Valentine Miller Field|Valentine|NE
+VRB |12843|Vero Beach International Airport|Vero Beach|FL
+VCT |12912|Victoria Rgnl Airport|Victoria|TX
+ACT |13959|Waco Rgnl Airport|Waco|TX
+PWAK|41606|Wake Island||UM
+WAL |93739|Wallops Island Flight Fac||VA
+IAD |93738|Washington Dc Dulles Airport||VA
+DCA |13743|Washington Reagan Airport||VA
+ALO |94910|Waterloo Municipal Airport|Waterloo|IA
+PBI |12844|West Palm Beach International Airport|West Palm Beach|FL
+ICT |03928|Wichita|Wichita|KS
+SPS |13966|Wichita Falls Municipal Airport|Wichita Falls|TX
+ICT |03928|Wichita Mid - Continent Airport|Wichita|KS
+AVP |14777|Wilkes - Barre International Airport|Wilkes-Barre|PA
+IPT |14778|Williamsport|Williamsport|PA
+ISN |94014|Williston Sloulin International Airport|Williston|ND
+ILM |13748|Wilmington International Airport|Wilmington|NC
+ILG |13781|Wilmington New Castle Co Airport|Wilmington|DE
+WMC |24128|Winnemucca Municipal Airport|Winnemucca|NV
+INW |23194|Winslow Municipal Airport|Winslow|AZ
+ORH |94746|Worcester Rgnl Airport|Worcester|MA
+YKM |24243|Yakima Air Terminal|Yakima|WA
+YAK |25339|Yakutat State Airport|Yakutat|AK
+PTYA|40308|Yap Island Caroline Islands||FM
+PTYY|40308|Yap Island Caroline Islands||FM
+PTYA|40308|Yap Island Wso Airport||FM|New ID
+PTYY|40308|Yap Island Wso Airport||FM|Old ID
+YNG |14852|Youngstown Rgnl Airport|Youngstown|OH
+
